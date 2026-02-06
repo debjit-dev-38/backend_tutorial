@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Programmer Humor",
+    "content": "Why do programmers prefer dark mode? Because light attracts bugs."
+  },
+  {
+    "id": 2,
+    "title": "Debugging Life",
+    "content": "I don’t always test my code. But when I do, I do it in production."
+  },
+  {
+    "id": 3,
+    "title": "Frontend Reality",
+    "content": "Frontend dev: works on my machine. Backend dev: your machine is wrong."
+  },
+  {
+    "id": 4,
+    "title": "Gym Joke",
+    "content": "I started lifting weights. Now my problems are heavier but at least so am I."
+  },
+  {
+    "id": 5,
+    "title": "Exam Mode",
+    "content": "Studying at night is just copying errors from Stack Overflow into your brain."
+  }
+]
